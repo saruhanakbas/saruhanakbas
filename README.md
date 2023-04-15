@@ -1,7 +1,7 @@
 # Merhaba! Ben akise !
 
 ## Hakkımda
-Ön Yüz Geliştirme (Front-End) Tasarımcı Olarak Kariyerime Devam Etmekteyim
+Ön Yüz Geliştirme (Front-End) Tasarımcısı Olmaya Çalışıyorum
 
 ## Kullandığım Yazılım Dilleri
 <p align="left">
