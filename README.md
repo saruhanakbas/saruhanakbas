@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm akise</h1>
-<p align="center">Front-End software Developer</p>
+<p align="center">Front-End Software Developer</p>
 
 
 
