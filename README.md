@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 <a href="https://instagram.com/saruhanakbass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saruhanakbass" height="30" width="40" /></a>
-<a href="(https://www.youtube.com/@saru1300)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saru1300" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@saru1300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saru1300" height="30" width="40" /></a>
 
 
 # 💻 Tech Stack:
