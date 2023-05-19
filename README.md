@@ -19,7 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akisedd&show_icons=true&locale=en" alt="akisedd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akisedd&" alt="akisedd" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akisedd&" alt="akisedd" /></p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
