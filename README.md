@@ -4,11 +4,6 @@
 <p align="center">Front-End Software Developer</p>
 
 
-## 🌐 Socials:
-<a href="https://instagram.com/saruhanakbass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saruhanakbass" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@saru1300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saru1300" height="30" width="40" /></a>
-
-
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
