@@ -15,9 +15,11 @@
 
 <h2 align="center"> 📊 GitHub Stats</h2> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akisedd&show_icons=true&locale=en&layout=compact" alt="akisedd" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akisedd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akisedd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=akisedd&show_icons=true&locale=en" alt="akisedd" /></p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
