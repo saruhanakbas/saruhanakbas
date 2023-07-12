@@ -1,7 +1,5 @@
 <h3 align="center">Front-End Software Developer</h3>
 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/saruhanakbas) 
-
 
 <h2 align="center"> 💻 Tech Stack:</h2>
 
